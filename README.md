@@ -10,12 +10,12 @@ Matlab installation - https://in.mathworks.com/help/compiler_sdk/dotnet/install-
 Deep Learning Toolbox for Matlab - https://in.mathworks.com/products/deep-learning.html 
 
 # Instructions
-Before running the code, load the database and place it in the respective folders:
-1. Training images - Training folder in handwritten-characters folder
-2. Test images - Validation folder in handwritten-characters folder
-Make sure the folders are named exactly according to as mentioned in the code.
-i.e. All images of a (capital or small) in a folder named 'A', etc.
-You could also simply download the dataset from the link mentioned below and place it accordingly.
+Before running the code, download the bataset from the link given below and load it inside your folder.
+The path for training data should be:
+handwritten-characters\Train
+and for test data:
+handwritten-characters\Validation
+
 
 # Dataset
 Link to handwritten-characters dataset used in this program - https://www.kaggle.com/vaibhao/handwritten-characters
